@@ -1,0 +1,12 @@
+GazeMat/
+jsons/
+path/
+test/
+trialsInfo/
+thesis/
+videos/
+gazeOutputVideo/
+.DS_Store
+.ipynb_checkpoints/
+sub21.csv
+venve/
