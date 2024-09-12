@@ -10,3 +10,5 @@ gazeOutputVideo/
 .ipynb_checkpoints/
 sub21.csv
 venve/
+Results/
+ScanpathSimilarity_metrics/
